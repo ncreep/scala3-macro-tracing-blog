@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+.metals/
+.bloop/
+.bsp/
+target/
+.ammonite/
+metals.sbt
+.scala-build/
+.devbox/
